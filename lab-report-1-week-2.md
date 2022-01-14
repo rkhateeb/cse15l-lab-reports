@@ -13,7 +13,7 @@ Here are the steps you should take to log into a course specific account on ieng
 
 ### Step 2: Remotely Connecting
 
-![Image](file:///Users/rizqxkhateeb/Desktop/remotelyConnecting.png)
+![](file:///Users/rizqxkhateeb/Desktop/remotelyConnecting.png)
 
 [Get Your Account](https://sdacs.ucsd.edu/~icc/index.php)
 
