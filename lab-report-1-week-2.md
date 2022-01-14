@@ -22,21 +22,21 @@ Here are the steps you should take to log into a course specific account on ieng
 
 ### Step 3: Run Some Commands
 
-![Image](TryingCommands.png)
+![](TryingCommands.png)
 
 - Run some commands to get acquainted with them, as they are quite useful.
 - Examples of commands cd, ls -lat, cat /home/linux/ieng6/cs15lwi22/public/hello.txt, etc
 
 ### Step 4: Moving Files Over SSH with scp
 
-![Image](MovingFilesScp.png)
+![](MovingFilesScp.png)
 
 - Run scp on the client (your computer). Put in the file you wish to transfer and the location of the transfer.
 - After you log into ineg6, you will be able to see the file you transferred once you call ls.
 
 ### Step 5: SSH Keys
 
-![Image](SSHKey.png)
+![](SSHKey.png)
 
 - Call ssh-keygen on the client and assign the location of where to save the key.
 - Log into the server and create a directory marked .ssh
@@ -44,7 +44,7 @@ Here are the steps you should take to log into a course specific account on ieng
 
 ### Step 6: Optimizing Remote Running
 
-![Image](OptimizeRemoteRunning.png)
+![](OptimizeRemoteRunning.png)
 
 - There are many commands one can use to make remote running easier for the user.
 - Use the up arrows to run a previous command.
