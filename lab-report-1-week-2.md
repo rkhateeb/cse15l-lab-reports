@@ -4,7 +4,7 @@ Here are the steps you should take to log into a course specific account on ieng
 
 ### Step 1: Install VSCODE
 
-![Image](downloadingVSCode.png)
+![](downloadingVSCode.png)
 
 [VSCODE](https://code.visualstudio.com/Download)
 
