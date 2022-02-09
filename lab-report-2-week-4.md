@@ -3,6 +3,7 @@
 ### Code change 1: test-file.md
 
 ![](testfile1error.png)
+![](failure1.png)
 [Link](https://rkhateeb.github.io/cse15l-lab-reports/test-file.html)
 
 - For this code, I added a comma followed by two angle brackets (<>).
@@ -13,6 +14,7 @@
 ### Code change 2: test1.md
 
 ![](test1error.png)
+![](failure2.png)
 [Link](https://rkhateeb.github.io/cse15l-lab-reports/test1.html)
 
 - For this code, I added the string 'please break lol' right after the link.
@@ -23,6 +25,7 @@
 ### Code change 1: test2.md
 
 ![](test2error.png)
+![](failure3.png)
 [Link](https://rkhateeb.github.io/cse15l-lab-reports/test2.html)
 
 - For this code, I added the string 'please break lol' a few lines after the link.
