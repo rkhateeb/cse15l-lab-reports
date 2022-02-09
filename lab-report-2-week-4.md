@@ -3,6 +3,7 @@
 ### Code change 1: test-file.md
 
 ![](testfile1error.png)
+![](command.png)
 ![](failure1.png)
 [Link](https://rkhateeb.github.io/cse15l-lab-reports/test-file.html)
 
@@ -14,6 +15,7 @@
 ### Code change 2: test1.md
 
 ![](test1error.png)
+![](command.png)
 ![](failure2.png)
 [Link](https://rkhateeb.github.io/cse15l-lab-reports/test1.html)
 
@@ -25,6 +27,7 @@
 ### Code change 1: test2.md
 
 ![](test2error.png)
+![](command.png)
 ![](failure3.png)
 [Link](https://rkhateeb.github.io/cse15l-lab-reports/test2.html)
 
