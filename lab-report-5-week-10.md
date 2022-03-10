@@ -14,7 +14,7 @@ I found the tests by searching through manually. I was primarily looking for tes
 
 ![](test22OtherImplementation.png)
 
-- In this case, the provided implementation is correct. This is not a link and should not be recognized as one. My implementation, however, interpreted the data in the file as a link, which is incorrect.
+- In this case, the provided implementation is correct. This is not a link and should not be recognized as one. Thus, no links should be returned. My implementation, however, interpreted the data in the file as a link, which is incorrect.
 - The use of the findCloseParen in the provided implementation, along with potentialLink on line 74 of the provided implementations's MarkdownParse.java most likely helped with checking whether the file acutally contained a link or not. My implementation simply checked for brackets and what was inside them. The provided implementation goes a step further and checks what is actually inside the link brackets.
 
 ![](findCloseParen.png)
@@ -35,7 +35,7 @@ I found the tests by searching through manually. I was primarily looking for tes
 
 ![](test32OtherImplementation.png)
 
-- Once again, the provided implementation is correct. This is not a link and should not be recognized as one. My implementation interpreted the data in the file as a link, which is incorrect.
+- Once again, the provided implementation is correct. This is not a link and should not be recognized as one. Thus, no links should be returned. My implementation interpreted the data in the file as a link, which is incorrect.
 - The use of the findCloseParen in the provided implementation, along with potentialLink on line 74 of the provided implementations's MarkdownParse.java most likely helped with checking whether the file acutally contained a link or not. My implementation simply checked for brackets and what was inside them. The provided implementation goes a step further and checks what is actually inside the link brackets. The issue is similar to that found when using 22.md, which makes sense because the files actually have a great deal of similarity.
 
 ![](findCloseParen.png)
